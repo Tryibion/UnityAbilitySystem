@@ -1,0 +1,13 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+
+public class #SCRIPTNAME# : EffectCustomCalculation
+{
+    public override void RunCustomCalculation(GameplayEffect effect, GameplayEffect.EffectAttributeModifier modifier, GameplayAttribute attribute)
+    {
+        #NOTRIM#
+    }
+}
+

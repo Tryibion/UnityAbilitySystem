@@ -1,0 +1,20 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+
+public class #SCRIPTNAME# : GameplayAttribute
+{
+
+    protected override void PostAttributeChange()
+    {
+        #NOTRIM#
+    }
+
+    protected override void PreAttributeChange()
+    {
+        #NOTRIM#
+    }
+    
+}
+
